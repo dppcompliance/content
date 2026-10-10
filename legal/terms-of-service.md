@@ -8,7 +8,7 @@ description: Zasady korzystania z aplikacji DPP Compliance dostępnej w domenie 
 ## 1. Postanowienia ogólne
 
 1. Niniejszy regulamin (dalej: „Regulamin") określa zasady korzystania z aplikacji internetowej DPP Compliance (dalej: „Aplikacja" lub „Usługa"), dostępnej w domenie `app.dppcompliance.pl`.
-2. Usługodawcą jest Przemysław Kowalczyk, prowadzący jednoosobową działalność gospodarczą pod firmą CodeAir Przemysław Kowalczyk, wpisaną do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), ul. Herbu Oksza 6/45, 02-495 Warszawa, NIP: 7231621906, REGON: 369440990, e-mail: [hello@dppcompliance.pl](mailto:hello@dppcompliance.pl) (dalej: „Usługodawca").
+2. Usługodawcą jest Przemysław Kowalczyk, prowadzący jednoosobową działalność gospodarczą pod firmą CodeAir Przemysław Kowalczyk, wpisaną do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG), ul. Herbu Oksza 6/45, 02-495 Warszawa, NIP: 7231621906, REGON: 369440990, e-mail: [kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl) (dalej: „Usługodawca").
 3. Usługa ma charakter B2B i jest skierowana wyłącznie do przedsiębiorców oraz organizacji (dalej: „Klient"). Osoba zakładająca konto lub działająca w Aplikacji w imieniu Klienta (dalej: „Użytkownik") oświadcza, że jest do tego umocowana.
 4. Usługa nie jest świadczona konsumentom. Klientowi będącemu osobą fizyczną, która zawiera umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści umowy wynika, że nie ma ona dla niej charakteru zawodowego (w szczególności w świetle przedmiotu działalności ujawnionego w CEIDG), przysługują uprawnienia przewidziane w art. 385¹–385³ Kodeksu cywilnego oraz prawo odstąpienia od umowy w terminie 14 dni od jej zawarcia na zasadach ustawy o prawach konsumenta. Jeżeli taki Klient zażąda rozpoczęcia świadczenia płatnej Usługi przed upływem terminu na odstąpienie, w razie odstąpienia zapłaci za okres świadczenia Usługi do chwili odstąpienia.
 5. Rejestracja konta wymaga zaakceptowania Regulaminu i zapoznania się z [Polityką Prywatności](https://app.dppcompliance.pl/privacy). Z chwilą rejestracji zostaje zawarta umowa o świadczenie Usługi na czas nieokreślony.
@@ -58,13 +58,13 @@ description: Zasady korzystania z aplikacji DPP Compliance dostępnej w domenie 
 
 ## 7. Reklamacje
 
-1. Reklamacje dotyczące działania Usługi można zgłaszać na adres [hello@dppcompliance.pl](mailto:hello@dppcompliance.pl), opisując problem i wskazując organizację, której dotyczy.
+1. Reklamacje dotyczące działania Usługi można zgłaszać na adres [kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl), opisując problem i wskazując organizację, której dotyczy.
 2. Usługodawca rozpatruje reklamację w terminie 14 dni od jej otrzymania i odpowiada na adres e-mail, z którego została wysłana.
 
 ## 8. Rozwiązanie umowy
 
 1. Klient może w każdej chwili zaprzestać korzystania z Usługi. Rezygnacja z planu płatnego następuje na zasadach z pkt 5 ust. 6.
-2. Usunięcie konta lub organizacji następuje na żądanie przesłane na adres [hello@dppcompliance.pl](mailto:hello@dppcompliance.pl) z adresu e-mail przypisanego do konta (w przypadku organizacji — przez jej właściciela).
+2. Usunięcie konta lub organizacji następuje na żądanie przesłane na adres [kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl) z adresu e-mail przypisanego do konta (w przypadku organizacji — przez jej właściciela).
 3. Usługodawca może rozwiązać umowę dotyczącą planu Free z zachowaniem 30-dniowego okresu wypowiedzenia, a w przypadkach z pkt 3 ust. 5 — ze skutkiem natychmiastowym.
 4. Po usunięciu organizacji jej dane, w tym opublikowane paszporty, zostają usunięte w ciągu 30 dni, a z kopii zapasowych — w cyklu ich nadpisywania opisanym w Polityce Prywatności. Przed złożeniem żądania Klient powinien pobrać dane, których potrzebuje, w tym te, które jako podmiot gospodarczy musi udostępniać przez wymagany przepisami okres.
 
@@ -73,4 +73,4 @@ description: Zasady korzystania z aplikacji DPP Compliance dostępnej w domenie 
 1. W sprawach nieuregulowanych zastosowanie mają przepisy prawa polskiego, w szczególności Kodeksu cywilnego i ustawy o świadczeniu usług drogą elektroniczną.
 2. Usługodawca może zmienić Regulamin z ważnych przyczyn, w szczególności zmiany przepisów, zakresu Usługi lub sposobu jej świadczenia. O istotnych zmianach Klienci zostaną powiadomieni e-mailem co najmniej 14 dni przed ich wejściem w życie. Klient, który nie akceptuje zmian, może w tym terminie rozwiązać umowę; dalsze korzystanie z Usługi po wejściu zmian w życie oznacza ich akceptację.
 3. Spory rozstrzyga sąd właściwy dla siedziby Usługodawcy, po uprzedniej próbie polubownego rozwiązania sporu.
-4. Pytania dotyczące Regulaminu prosimy kierować na adres [hello@dppcompliance.pl](mailto:hello@dppcompliance.pl).
+4. Pytania dotyczące Regulaminu prosimy kierować na adres [kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl).
