@@ -17,7 +17,7 @@ Administratorem Twoich danych osobowych jest Przemysław Kowalczyk, prowadzący 
 działalność gospodarczą pod firmą CodeAir Przemysław Kowalczyk, ul. Herbu Oksza 6/45,
 02-495 Warszawa, NIP: 7231621906, REGON: 369440990 (dalej: „Administrator"). W sprawach
 związanych z danymi osobowymi prosimy o kontakt pod adresem
-[privacy@dppcompliance.pl](mailto:privacy@dppcompliance.pl).
+[kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl).
 
 Administrator nie wyznaczył inspektora ochrony danych.
 
@@ -133,7 +133,7 @@ Zgodnie z RODO przysługuje Ci prawo do:
 - **wycofania zgody** w dowolnym momencie,
 - **wniesienia skargi** do Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa).
 
-Aby skorzystać z tych praw, napisz na [privacy@dppcompliance.pl](mailto:privacy@dppcompliance.pl),
+Aby skorzystać z tych praw, napisz na [kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl),
 w przypadku konta w Aplikacji — z adresu przypisanego do konta. Odpowiemy w ciągu miesiąca.
 Jeśli Twoje dane umieścił w Aplikacji Klient, przekażemy żądanie temu Klientowi jako
 administratorowi.
@@ -172,4 +172,4 @@ wejściem w życie. Aktualna wersja jest zawsze dostępna w Portalu i pod adrese
 ---
 
 W razie pytań dotyczących przetwarzania danych osobowych napisz do nas:
-[privacy@dppcompliance.pl](mailto:privacy@dppcompliance.pl).
+[kontakt@dppcompliance.pl](mailto:kontakt@dppcompliance.pl).
